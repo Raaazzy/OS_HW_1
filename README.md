@@ -69,7 +69,7 @@ gcc i_points/name.c library.c
 # На 8 баллов:
 ### Приведено условие задачи:
 > [eight.c](https://github.com/Raaazzy/OS_HW_1/blob/main/8_points/eight.c)<br>
-> [eight_addition.c](https://github.com/Raaazzy/OS_HW_1/blob/main/8_points/eight_addition.c)
+> [eight_addition.c](https://github.com/Raaazzy/OS_HW_1/blob/main/8_points/eight_additional.c)
 
 ### Приведены тестовые данные:
 > [tests](https://github.com/Raaazzy/OS_HW_1/tree/main/8_points/tests)
